@@ -63,16 +63,16 @@
 @-webkit-keyframes bird-slow {
     /* 鸟飞的动作 */
     0% {
-    background-position: -182px 0px;
+    background-position: -0% 0%;
 }
 50% {
-    background-position: 0px 0px;
+    background-position: -100% 0%;
 }
 75% {
-    background-position: -91px 0px;
+    background-position: -200% 0%;
 }
 100% {
-    background-position: -182px 0px;
+    background-position: -300% 0%;
 }
     
 }
@@ -80,14 +80,14 @@
 @-moz-keyframes bird-slow {
     /* 鸟飞的动作 */
     0% {
-    background-position: -182px 0px;
+    background-position: -0% 0%;
 }
 50% {
-    background-position: 0px 0px;
+    background-position: -100% 0%;
 }
 75% {
-    background-position: -91px 0px;
+    background-position: -200% 0%;
 }
 100% {
-    background-position: -182px 0px;
+    background-position: -300% 0%;
 }
